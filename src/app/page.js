@@ -122,9 +122,9 @@ export default function Home() {
                   ))}
                 </div>
                 <p className="text-sm mb-4">
-                  "Pretty !!! Looks really nice. 😍
+                  &quot;Pretty !!! Looks really nice. 😍
                   Thank you.
-                  Can you make 2 more??"
+                  Can you make 2 more??&quot;
                 </p>
                 <p className="font-semibold">- Happy Customer</p>
               </CardContent>
@@ -137,9 +137,9 @@ export default function Home() {
                   ))}
                 </div>
                 <p className="text-sm mb-4">
-                  "Pretty !!! Looks really nice. 😍
+                  &quot;Pretty !!! Looks really nice. 😍
                   Thank you.
-                  Can you make 2 more??"
+                  Can you make 2 more??&quot;
                 </p>
                 <p className="font-semibold">- Happy Customer</p>
               </CardContent>
@@ -152,9 +152,9 @@ export default function Home() {
                   ))}
                 </div>
                 <p className="text-sm mb-4">
-                  "Pretty !!! Looks really nice. 😍
+                  &quot;Pretty !!! Looks really nice. 😍
                   Thank you.
-                  Can you make 2 more??"
+                  Can you make 2 more??&quot;
                 </p>
                 <p className="font-semibold">- Happy Customer</p>
               </CardContent>
