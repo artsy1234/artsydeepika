@@ -193,7 +193,7 @@ export default function AboutPage() {
             Discover our collection of handcrafted candles and bring the warmth of tradition into your home.
           </p>
             <Button size="lg" className="gap-2">
-                <Link href="/candles" className="hover:text-neutral-600"> Explore Our Collection </Link>
+                <Link href="/products" className="hover:text-neutral-600"> Explore Our Collection </Link>
             <ArrowRight className="h-4 w-4" />
             </Button>
         </div>
