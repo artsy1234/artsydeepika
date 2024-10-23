@@ -34,3 +34,45 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# files
+/public/images/Ignore
+/public/images/artsydeepika
+/public/images/Promotional & Miscellaneous
+
+/src/app/candles
+/src/app/home
+/src/app/homepage
+
+/src/components/Home.jsx
+/src/components/HomeClaude.jsx
+
+ecommapp (main).sh
+FolderStructure.txt
+
+public/images/Coffee/artsydeepika_1.jpg
+public/images/Coffee/artsydeepika_14.jpg
+public/images/Coffee/artsydeepika﹨Coffee_lovers,_best_gift_no_Tag_someone_who_should_give_this_to_you♥️😇  @artsydeepika_  {_coffee_lov.jpg.jpg
+
+
+public/images/LadduCandles/artsydeepika_10.jpg 
+public/images/LadduCandles/artsydeepika﹨🥰🥰🥰_motivation.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Laddu_candles_for_you,_come_take_‘em_😍😊  @artsydeepika_  Diwali_candles_in_Hyderabad,_Laddu_candles__3.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Laddu_candles_for_you,_come_take_‘em_😍😊  @artsydeepika_  Diwali_candles_in_Hyderabad,_Laddu_candles__4.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Laddu_candles_for_you,_come_take_‘em_😍😊  @artsydeepika_  Diwali_candles_in_Hyderabad,_Laddu_candles__5.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Laddu_candles_for_you,_come_take_‘em_😍😊  @artsydeepika_  Diwali_candles_in_Hyderabad,_Laddu_candles_.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Laddu_candles_in_process_for_bulk_order._🥰❤️  @artsydeepika_  DM_to_get_your_orders_confirmed_☑️_bef.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Melting_hearts_♥️in_action_  . . . @artsydeepika_ #heart_#heart_imprint_#heartache_#hearthealth_#hea.jpg_1.jpg 
+public/images/LadduCandles/artsydeepika﹨Melting_hearts_♥️in_action_  . . . @artsydeepika_ #heart_#heart_imprint_#heartache_#hearthealth_#hea.jpg_3.jpg 
+public/images/LadduCandles/artsydeepika﹨Melting_hearts_♥️in_action_  . . . @artsydeepika_ #heart_#heart_imprint_#heartache_#hearthealth_#hea.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Mini_gift_potli-_laddu_candle__Shubh_Labh_Door_Wall_Stickers_and_cute_white_potli_🤗_  {_Diwali_gift,_2.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Mini_gift_potli-_laddu_candle__Shubh_Labh_Door_Wall_Stickers_and_cute_white_potli_🤗_  {_Diwali_gift,_3.jpg.jpg 
+public/images/LadduCandles/artsydeepika﹨Mini_gift_potli-_laddu_candle__Shubh_Labh_Door_Wall_Stickers_and_cute_white_potli_🤗_  {_Diwali_gift,.jpg.jpg
+
+public/images/PinkMD
+
+public/images/Welcome Candles/artsydeepika﹨Welcome_your_reason_of_joy_with_@artsydeepika_budget_candles_🥰  {_baby_shower_,_gift,_candles_,_soy_.jpg.jpg
+
+public/images/WhiteBouquet
+public/images/Strawberry
