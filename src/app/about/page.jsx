@@ -10,6 +10,7 @@ import {
   ArrowRight, 
   Quote 
 } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 
 const values = [
@@ -108,7 +109,7 @@ export default function AboutPage() {
               </div>
             </div>
             <div className="relative aspect-square">
-              <img
+              <Image
                 src="images/Strawberry/Strawberry4.jpg"
                 alt="Candle making process"
                 className="rounded-lg object-cover"

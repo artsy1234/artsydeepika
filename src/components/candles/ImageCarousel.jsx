@@ -1,6 +1,7 @@
 "use client"
 import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight } from "lucide-react";
+import Image from "next/image";
 
 export function ImageCarousel({ images, currentIndex, setCurrentIndex }) {
   const nextImage = () => {
@@ -10,10 +11,11 @@ export function ImageCarousel({ images, currentIndex, setCurrentIndex }) {
   const prevImage = () => {
     setCurrentIndex((prev) => (prev - 1 + images.length) % images.length);
   };
+  
 
   return (
     <div className="relative aspect-square bg-neutral-100 rounded-lg overflow-hidden">
-      <img
+      <Image
         src={images[currentIndex]}
         alt="Product"
         className="w-full h-full object-cover"

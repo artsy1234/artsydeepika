@@ -2,6 +2,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
 import { Eye } from "lucide-react";
+import Image from "next/image";
 
 export function ProductCard({ product, onClick }) {
   return (
@@ -9,9 +10,10 @@ export function ProductCard({ product, onClick }) {
       className="flex flex-col h-full group relative overflow-hidden hover:shadow-lg transition-shadow duration-300 cursor-pointer"
       onClick={onClick}
     >
+      
       <CardHeader className="p-0">
         <div className="relative aspect-square overflow-hidden">
-          <img
+          <Image
             src={product.images[0]}
             alt={product.name}
             className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
